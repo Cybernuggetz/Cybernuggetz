@@ -65,7 +65,7 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 
 ### Vulnerability Management
 <div>
-    <a href=|https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/-Nessus-23B600?&style=for-the-badge&logo=Tenable&logoColor=white" /></a>
+    <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/-Nessus-23B600?&style=for-the-badge&logo=Tenable&logoColor=white" /></a>
     <a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/-OpenVAS-5CBB5A?&style=for-the-badge&logo=OpenVAS&logoColor=white" /></a>
     <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
     <a href="https://www.qualys.com/"><img src="https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" /></a>    
