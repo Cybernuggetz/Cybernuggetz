@@ -14,23 +14,23 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Cybernuggetz/SIEM-Implementation-and-Log-Analysis">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Cybernuggetz/Network-Traffic-Monitoring-and-Attack-Detection">Detection Lab</a>|
-| Security Automation with Microsoft Sentinel     | <a href="https://github.com/Cybernuggetz/-Security-Automation-with-Microsoft-Sentinel">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Cybernuggetz/Incident-Response-Planning-and-Execution-">Detection Lab</a>|
-| Traffic Capture and analysis with Wireshark     | <a href="https://github.com/Cybernuggetz/Traffic-Capture-and-analysis-with-Wireshark">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Cybernuggetz/Scripting-and-Automation-for-Threat-Mitigation">Detection Lab</a>|
-| Vulnerability Assessment with Nessus        | <a href="https://github.com/Cybernuggetz/Vulnerability-Assessment-with-Nessus">Detection Lab</a>|
-| Intrusion Detection and and Configuratio with Suricata| <a href="https://github.com/Cybernuggetz/-Intrusion-Detection-and-and-Configuratio-with-Suricata">Detection Lab</a>|
-| Vulnerability Exploitation with Metasploit         | <a href="https://github.com/Cybernuggetz/-Vulnerability-Exploitation-with-Metasploit-">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Cybernuggetz/SIEM-Implementation-and-Log-Analysis">SIEM Implementation and Log Analysis</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Cybernuggetz/Network-Traffic-Monitoring-and-Attack-Detection">Network Traffic Monitoring and Attack Detection</a>|
+| Security Automation with Microsoft Sentinel     | <a href="https://github.com/Cybernuggetz/-Security-Automation-with-Microsoft-Sentinel">Security Automation with Microsoft Sentinel   </a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Cybernuggetz/Incident-Response-Planning-and-Execution-">Incident Response Planning and Execution </a>|
+| Traffic Capture and analysis with Wireshark     | <a href="https://github.com/Cybernuggetz/Traffic-Capture-and-analysis-with-Wireshark">Traffic Capture and analysis with Wireshark</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Cybernuggetz/Scripting-and-Automation-for-Threat-Mitigation">Scripting and Automation for Threat Mitigation </a>|
+| Vulnerability Assessment with Nessus        | <a href="https://github.com/Cybernuggetz/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment with Nessus </a>|
+| Intrusion Detection and and Configuratio with Suricata| <a href="https://github.com/Cybernuggetz/-Intrusion-Detection-and-and-Configuratio-with-Suricata"> Intrusion Detection and and Configuratio with Suricata</a>|
+| Vulnerability Exploitation with Metasploit         | <a href="https://github.com/Cybernuggetz/-Vulnerability-Exploitation-with-Metasploit-">Vulnerability Exploitation with Metasploit </a>|
 | Honeypot Setup in Microsoft Azure | <a href="https://github.com/Cybernuggetz/Honey-Pot">Honeypot Setup in Microsft Azure</a>|
-| Vulnerability Management with Qualys         | <a href="https://github.com/Cybernuggetz/Vulnerability-Management-with-Qualys-">Detection Lab</a>|
-| Alert investigation with Splunk | <a href="https://github.com/Cybernuggetz/Alert-investigation-with-Splunk">Detection Lab</a>|
-| Threat Intelligence integration with SOAR | <a href="https://github.com/Cybernuggetz/Threat-Intelligence-integration-with-SOAR-">Detection Lab</a>|
-| Active Directory Security Monitoring | <a href="https://github.com/Cybernuggetz/Active-Directory-Security-Monitoring">Detection Lab</a>|
-| Digital Forensic with Autopsy | <a href="https://github.com/Cybernuggetz/Digital-Forensic-with-Autopsy">Detection Lab</a>|
-| Firewall Log Analysis | <a href="https://github.com/Cybernuggetz/-Firewall-Log-Analysis">Detection Lab</a>|
-| DFIR with Velociraptor | <a href="https://github.com/Cybernuggetz/DFIR-with-Velociraptor">Detection Lab</a>|
+| Vulnerability Management with Qualys         | <a href="https://github.com/Cybernuggetz/Vulnerability-Management-with-Qualys-">Vulnerability Management with Qualys </a>|
+| Alert investigation with Splunk | <a href="https://github.com/Cybernuggetz/Alert-investigation-with-Splunk">Alert investigation with Splunk </a>|
+| Threat Intelligence integration with SOAR | <a href="https://github.com/Cybernuggetz/Threat-Intelligence-integration-with-SOAR-">Threat Intelligence integration with SOAR</a>|
+| Active Directory Security Monitoring | <a href="https://github.com/Cybernuggetz/Active-Directory-Security-Monitoring">Active Directory Security Monitoring </a>|
+| Digital Forensic with Autopsy | <a href="https://github.com/Cybernuggetz/Digital-Forensic-with-Autopsy">Digital Forensic with Autopsy</a>|
+| Firewall Log Analysis | <a href="https://github.com/Cybernuggetz/-Firewall-Log-Analysis">Firewall Log Analysis</a>|
+| DFIR with Velociraptor | <a href="https://github.com/Cybernuggetz/DFIR-with-Velociraptor">DFIR with Velociraptor</a>|
 
 
 ## Tools
@@ -63,6 +63,22 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
     
 </div>
 
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-23B600?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-5CBB5A?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    
+    
+</div>
+
+### Pentesting
+<div>
+    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&color=black&labelColor=red" />
+    <img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    
+</div>
 
 ### Digital Forensic
 <div>
@@ -82,3 +98,20 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 </div>
 
 ## Projects
+- <a href="https://github.com/Cybernuggetz/SIEM-Implementation-and-Log-Analysis">SIEM Implementation and Log Analysis</a>
+- <a href="https://github.com/Cybernuggetz/Network-Traffic-Monitoring-and-Attack-Detection">Network Traffic Monitoring and Attack Detection</a>
+- <a href="https://github.com/Cybernuggetz/-Security-Automation-with-Microsoft-Sentinel">Security Automation with Microsoft Sentinel   </a>
+- <a href="https://github.com/Cybernuggetz/Incident-Response-Planning-and-Execution-">Incident Response Planning and Execution </a>
+- <a href="https://github.com/Cybernuggetz/Traffic-Capture-and-analysis-with-Wireshark">Traffic Capture and analysis with Wireshark</a>
+- <a href="https://github.com/Cybernuggetz/Scripting-and-Automation-for-Threat-Mitigation">Scripting and Automation for Threat Mitigation </a>
+- <a href="https://github.com/Cybernuggetz/Vulnerability-Assessment-with-Nessus">Vulnerability Assessment with Nessus </a>
+- <a href="https://github.com/Cybernuggetz/-Intrusion-Detection-and-and-Configuratio-with-Suricata"> Intrusion Detection and and Configuratio with Suricata</a>
+- <a href="https://github.com/Cybernuggetz/-Vulnerability-Exploitation-with-Metasploit-">Vulnerability Exploitation with Metasploit </a>
+- <a href="https://github.com/Cybernuggetz/Honey-Pot">Honeypot Setup in Microsft Azure</a>
+- <a href="https://github.com/Cybernuggetz/Vulnerability-Management-with-Qualys-">Vulnerability Management with Qualys </a>
+- <a href="https://github.com/Cybernuggetz/Alert-investigation-with-Splunk">Alert investigation with Splunk </a>
+- <a href="https://github.com/Cybernuggetz/Threat-Intelligence-integration-with-SOAR-">Threat Intelligence integration with SOAR</a>
+- <a href="https://github.com/Cybernuggetz/Active-Directory-Security-Monitoring">Active Directory Security Monitoring </a>
+- <a href="https://github.com/Cybernuggetz/Digital-Forensic-with-Autopsy">Digital Forensic with Autopsy</a>
+- <a href="https://github.com/Cybernuggetz/-Firewall-Log-Analysis">Firewall Log Analysis</a>
+- <a href="https://github.com/Cybernuggetz/DFIR-with-Velociraptor">DFIR with Velociraptor</a>
