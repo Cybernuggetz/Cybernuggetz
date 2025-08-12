@@ -91,7 +91,7 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 ## Certifications and Trainings
 
 <div>
-<a href="https://www.coursera.org/professional-certificates/google-cybersecurity"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US"><img src="https://img.shields.io/badge/Cisco_Cybersecurity%20Training-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification"><img src="https://img.shields.io/badge/Microsoft_Certified-Security_Operations_Analyst_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
