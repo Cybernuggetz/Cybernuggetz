@@ -23,7 +23,7 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 | Vulnerability Assessment with Nessus        | <a href="https://google.com">Detection Lab</a>|
 | Intrusion Detection and and Configuratio with Suricata| <a href="https://google.com">Detection Lab</a>|
 | Vulnerability Exploitation with Metasploit         | <a href="https://google.com">Detection Lab</a>|
-| Honeypot Setup in Microsoft Azure | <a href="https://google.com">Detection Lab</a>|
+| Honeypot Setup in Microsoft Azure | <a href="https://github.com/Cybernuggetz/Honey-Pot">Honeypot Setup in Microsft Azure</a>|
 | Vulnerability Management with Qualys         | <a href="https://google.com">Detection Lab</a>|
 | Alert investigation with Splunk| <a href="https://google.com">Detection Lab</a>|
 | Threat Intelligence integration with SOAR| <a href="https://google.com">Detection Lab</a>|
