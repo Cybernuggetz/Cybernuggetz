@@ -17,20 +17,20 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Cybernuggetz/SIEM-Implementation-and-Log-Analysis">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Cybernuggetz/Network-Traffic-Monitoring-and-Attack-Detection">Detection Lab</a>|
 | Security Automation with Microsoft Sentinel     | <a href="https://github.com/Cybernuggetz/-Security-Automation-with-Microsoft-Sentinel">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
-| Traffic Capture and analysis with Wireshark     | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
-| Vulnerability Assessment with Nessus        | <a href="https://google.com">Detection Lab</a>|
-| Intrusion Detection and and Configuratio with Suricata| <a href="https://google.com">Detection Lab</a>|
-| Vulnerability Exploitation with Metasploit         | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Cybernuggetz/Incident-Response-Planning-and-Execution-">Detection Lab</a>|
+| Traffic Capture and analysis with Wireshark     | <a href="https://github.com/Cybernuggetz/Traffic-Capture-and-analysis-with-Wireshark">Detection Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Cybernuggetz/Scripting-and-Automation-for-Threat-Mitigation">Detection Lab</a>|
+| Vulnerability Assessment with Nessus        | <a href="https://github.com/Cybernuggetz/Vulnerability-Assessment-with-Nessus">Detection Lab</a>|
+| Intrusion Detection and and Configuratio with Suricata| <a href="https://github.com/Cybernuggetz/-Intrusion-Detection-and-and-Configuratio-with-Suricata">Detection Lab</a>|
+| Vulnerability Exploitation with Metasploit         | <a href="https://github.com/Cybernuggetz/-Vulnerability-Exploitation-with-Metasploit-">Detection Lab</a>|
 | Honeypot Setup in Microsoft Azure | <a href="https://github.com/Cybernuggetz/Honey-Pot">Honeypot Setup in Microsft Azure</a>|
-| Vulnerability Management with Qualys         | <a href="https://google.com">Detection Lab</a>|
-| Alert investigation with Splunk| <a href="https://google.com">Detection Lab</a>|
-| Threat Intelligence integration with SOAR| <a href="https://google.com">Detection Lab</a>|
-| Active Directory Security Monitoring| <a href="https://google.com">Detection Lab</a>|
-| Digital Forensic with Autopsy| <a href="https://google.com">Detection Lab</a>|
-| Firewall Log Analysis| <a href="https://google.com">Detection Lab</a>|
-| DFIR with Velociraptor| <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management with Qualys         | <a href="https://github.com/Cybernuggetz/Vulnerability-Management-with-Qualys-">Detection Lab</a>|
+| Alert investigation with Splunk | <a href="https://github.com/Cybernuggetz/Alert-investigation-with-Splunk">Detection Lab</a>|
+| Threat Intelligence integration with SOAR | <a href="https://github.com/Cybernuggetz/Threat-Intelligence-integration-with-SOAR-">Detection Lab</a>|
+| Active Directory Security Monitoring | <a href="https://github.com/Cybernuggetz/Active-Directory-Security-Monitoring">Detection Lab</a>|
+| Digital Forensic with Autopsy | <a href="https://github.com/Cybernuggetz/Digital-Forensic-with-Autopsy">Detection Lab</a>|
+| Firewall Log Analysis | <a href="https://github.com/Cybernuggetz/-Firewall-Log-Analysis">Detection Lab</a>|
+| DFIR with Velociraptor | <a href="https://github.com/Cybernuggetz/DFIR-with-Velociraptor">Detection Lab</a>|
 
 
 ## Tools
