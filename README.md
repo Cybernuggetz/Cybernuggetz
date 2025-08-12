@@ -37,39 +37,38 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<div> 
+   <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+   <a href="https://suricata.io/"> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a> 
+   <a href="https://www.snort.org/"><img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" /></a>
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   <a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+   <a href="https://docs.velociraptor.app/"><img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /></a>
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=defender-portal"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+   <a href="https://www.elastic.co/"> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-    
+   <a href="https://aws.amazon.com/free/?trk=2da1848f-e04f-49c6-8807-969126ffbf73&sc_channel=ps&ef_id=EAIaIQobChMIjJKkvLOFjwMVKwQGAB2Vyx_FEAAYASAAEgIxlfD_BwE:G:s&s_kwcid=AL!4422!3!733981739759!p!!g!!aws%20console!22258829493!178306028107&gad_campaignid=22258829493&gclid=EAIaIQobChMIjJKkvLOFjwMVKwQGAB2Vyx_FEAAYASAAEgIxlfD_BwE"> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+    <a href="https://azure.microsoft.com/en-us/"><img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    </a>    
 </div>
 
 ### Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Nessus-23B600?&style=for-the-badge&logo=Tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-5CBB5A?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    
+    <a href=|https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/-Nessus-23B600?&style=for-the-badge&logo=Tenable&logoColor=white" /></a>
+    <a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/-OpenVAS-5CBB5A?&style=for-the-badge&logo=OpenVAS&logoColor=white" /></a>
+    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
+    <a href="https://www.qualys.com/"><img src="https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" /></a>    
     
 </div>
 
