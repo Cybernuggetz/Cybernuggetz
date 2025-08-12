@@ -14,9 +14,9 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Microsoft Sentinel     | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Cybernuggetz/SIEM-Implementation-and-Log-Analysis">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Cybernuggetz/Network-Traffic-Monitoring-and-Attack-Detection">Detection Lab</a>|
+| Security Automation with Microsoft Sentinel     | <a href="https://github.com/Cybernuggetz/-Security-Automation-with-Microsoft-Sentinel">Detection Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
 | Traffic Capture and analysis with Wireshark     | <a href="https://google.com">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
