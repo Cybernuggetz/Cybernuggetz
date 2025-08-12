@@ -74,15 +74,15 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 
 ### Pentesting
 <div>
-    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&color=black&labelColor=red" />
-    <img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&color=black&labelColor=red" /></a>
+    <a href="https://www.kali.org/tools/hydra/"><img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     
 </div>
 
 ### Digital Forensic
 <div>
-    <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-000000?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://docs.velociraptor.app/"><img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /></a>
    
     
 </div>
@@ -91,9 +91,9 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 ## Certifications and Trainings
 
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Cybersecurity%20Training-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US"><img src="https://img.shields.io/badge/Cisco_Cybersecurity%20Training-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification"><img src="https://img.shields.io/badge/Microsoft_Certified-Security_Operations_Analyst_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
 
 ## Projects
