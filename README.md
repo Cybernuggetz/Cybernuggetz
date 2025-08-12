@@ -77,8 +77,8 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_Cybersecurity%20Training-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
