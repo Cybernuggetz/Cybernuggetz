@@ -25,7 +25,7 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 | Vulnerability Exploitation with Metasploit         | <a href="https://github.com/Cybernuggetz/-Vulnerability-Exploitation-with-Metasploit-">Vulnerability Exploitation with Metasploit </a>|
 | Honeypot Setup in Microsoft Azure | <a href="https://github.com/Cybernuggetz/Honey-Pot">Honeypot Setup in Microsft Azure</a>|
 | Vulnerability Management with Qualys         | <a href="https://github.com/Cybernuggetz/Vulnerability-Management-with-Qualys-">Vulnerability Management with Qualys </a>|
-| Alert investigation with Splunk | <a href="https://github.com/Cybernuggetz/Alert-investigation-with-Splunk">Alert investigation with Splunk </a>|
+| Investigation with Splunk | <a href="https://github.com/Cybernuggetz/Alert-investigation-with-Splunk">Investigation with Splunk </a>|
 | Threat Intelligence integration with SOAR | <a href="https://github.com/Cybernuggetz/Threat-Intelligence-integration-with-SOAR-">Threat Intelligence integration with SOAR</a>|
 | Active Directory Security Monitoring | <a href="https://github.com/Cybernuggetz/Active-Directory-Security-Monitoring">Active Directory Security Monitoring </a>|
 | Digital Forensic with Autopsy | <a href="https://github.com/Cybernuggetz/Digital-Forensic-with-Autopsy">Digital Forensic with Autopsy</a>|
@@ -108,7 +108,7 @@ Cybersecurity in action — a hands-on showcase of threat hunting, DFIR, SOC eng
 - <a href="https://github.com/Cybernuggetz/-Vulnerability-Exploitation-with-Metasploit-">Vulnerability Exploitation with Metasploit </a>
 - <a href="https://github.com/Cybernuggetz/Honey-Pot">Honeypot Setup in Microsft Azure</a>
 - <a href="https://github.com/Cybernuggetz/Vulnerability-Management-with-Qualys-">Vulnerability Management with Qualys </a>
-- <a href="https://github.com/Cybernuggetz/Alert-investigation-with-Splunk">Alert investigation with Splunk </a>
+- <a href="https://github.com/Cybernuggetz/Alert-investigation-with-Splunk">Investigation with Splunk </a>
 - <a href="https://github.com/Cybernuggetz/Threat-Intelligence-integration-with-SOAR-">Threat Intelligence integration with SOAR</a>
 - <a href="https://github.com/Cybernuggetz/Active-Directory-Security-Monitoring">Active Directory Security Monitoring </a>
 - <a href="https://github.com/Cybernuggetz/Digital-Forensic-with-Autopsy">Digital Forensic with Autopsy</a>
